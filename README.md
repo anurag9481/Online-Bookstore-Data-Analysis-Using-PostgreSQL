@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="project-thumbnail.png" alt="Online Bookstore Data Analysis Using PostgreSQL" width="100%">
+</p>
 # Online Bookstore Data Analysis Using PostgreSQL
 
 ## Project Overview
